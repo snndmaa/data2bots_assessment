@@ -1,0 +1,20 @@
+{
+    "battle": {
+        "type": "Object",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "joiner": {
+        "type": "Object",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "participantIds": {
+        "type": "Array/List",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
