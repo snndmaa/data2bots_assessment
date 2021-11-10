@@ -9,7 +9,7 @@ def work(file):
 
     #get file path
     BASE_DIR = Path(__file__).resolve().parent
-    JSON_DIR = os.path.join(BASE_DIR, 'data/data_1.json')
+    JSON_DIR = os.path.join(BASE_DIR, file)
 
 
     #Deserialize from file
